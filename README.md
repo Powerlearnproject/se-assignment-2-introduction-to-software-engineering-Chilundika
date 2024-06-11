@@ -67,14 +67,38 @@ What are version control systems, and why are they important in software develop
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+**ANS**:
+Software Project Manager: is responsible for overseeing the planning, execution and delivery of software projects by monitoring and finalizing all project activities and ensuring all deliverables are completed on time.
+- Planning: Defines the scope of the project, timelines and resources
+- Execution: Coordinates tasks, managing the team and ensures the progress of the project.
+- Monitoring: Tracks the project's progress and makes adjustments to the project as needed.
+- Finalizing: Closes the project activities and ensures all deliverables are complete.
+
+  **CHALLENGES**
+- Stakeholders Change in requirements: The stakeholder can suddenly decide to request for changes on the envisioned design of the project thus causing scope creep (changing the scope without altering the timelines and budget of the project0
+- Tight Deadlines: As a result of scope creep, tight deadlines can occur because of the changes in the design of the system, which would lead to the review and refactoring of the new requirements.
+- Technical Debt:This is as a result of suboptimal solutions birthed from scope creep leading to increased maintainance costs.
+- Communication: not all stakeholders can effectively communicate their vision thus leading to a misunderstanding in the project delivery.
+_An example of these challenges would be when managing a software developement project for a new mobile app, from the initial planning and resource allocation to final testing and release.
+
 Software Maintenance:
 
-Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle? **ANS**: This is the process of updating and improving the software with new patches after it has been deployed in order to correct faults, improve performance and enable adaptations to the changing environments.
+
+**Maintainance types**:
+- Corrective maintenance: This involves bug fixes and error handling
+- Adaptive maintenance: This involves updating the software to work in a new/different or changed environment, depending the user feedback and needs.
+- Performance maintenance: This is enhancing the performance of the software by adding new features.
+- Preventive maintenance: This is making changes to prevent future issues that could have possibly occured.
+- 
 Ethical Considerations in Software Engineering:
 
-What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
-Submission Guidelines:
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? 
+**ANS**: Some of the ethical issues that software engineers could face would include: Privacy issures, Security issues, Transparency issues, and Fairness issues.
+**Adherence**: The software engineers would have to follow the ethical codes of conduct which prompt them to abide by professional guidelines such as the IEEE standards. Furthermore, transparency would have to be practiced by being open about the practices and policies being observed throughout the development procedures. Lastly, the designs would have to be "User-centered", by focusing on the user rights and privacy policies during developement procedures.
+An example of this: Ensuring that a social media application ONLY collects the necessary data and clearly informs the user about the data usage policies and rights.
+
+REFERENCES USED:
+Software Engineering Modularity. (n.d). Retrieved from: https://www.modularityengineering.com
+Data Privacy in Social Media Apps. (n.d). Retrieved from: https:www.dataprivacy.com/dataprivacy
+chakin. (n.d). Undestanding Software Engineering. Powerlearn Project Academy.(2024)
